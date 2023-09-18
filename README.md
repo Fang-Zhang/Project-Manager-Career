@@ -3,8 +3,6 @@
 ## PMP Exam Prep
 - [PMP Exam Prep Simplified](./PMP-Exam-Prep/PMP-Exam-Prep-Simplified.md)
 - [Online Course](./PMP-Exam-Prep/PMP-Online-Course-by-Andrew/)
-## PM Contractor
-- [Introduction](./PM-Contractor/Introduction.md)
 ## PM Career
 ### Project Manager
 - [PM-Contractor-Introduction](./PM-Career/Project-Manager/PM-Contractor.md)

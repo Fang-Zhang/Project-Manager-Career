@@ -1,5 +1,7 @@
 # PMP Exam Prep Simplified
 
+![PMP-Architecture](./PMP-Architecture.drawio.svg)
+
 ## 1. Introduction
 ### 1.1. PMBok
 ### 1.2. Application Process

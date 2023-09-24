@@ -5,26 +5,26 @@
 ## 2. Why do you leave your current job?
     2.1 No Negative Answer
     2.2 Honest and Clear
-## 3. Why do you want to work for this company? (Why do you want to be a Release Lead?)
+## 3. Why do you want to work for this company? (Why do you want to be a Project Manager?)
     3.1 This company attracts Points
     3.2 Clear Answer
     3.3 Skills fit this position (a bit of a challenge due to this great company)
-## 4. What role does Release Lead perform? (What is the role of a release manager?)
+## 4. What role does Project Manager perform? (What is the role of a Project Manager?)
     4.1 Roles Perform
     4.2 My Impression
-        4.2.1 Associate Project Management
+        4.2.1 Project Management
         4.2.2 Timeline, Resource, and Other Process Elements
         4.2.3 Risk Management
         4.2.4 Budget Management (optional)
 ## 5. What qualities are for Performing effectively?
     5.1 Communication skills
     5.2 Be Honestly
-## 6. What does a typical day look like as a Release Lead?
+## 6. What does a typical day look like as a Project Manager?
     6.1 Key Duties
         6.1.1 Planning
         6.1.2 Communicating New Requirements
         6.1.3 Changing Management
-        6.1.4 Committing to the Release Procedures
+        6.1.4 Committing to the Project Procedures
 ## 7. How do your peers describe you? (Describe your greatest strengths as a release manager.)
     7.1 Honestly (nitty-gritty and flexible)
     7.2 Relevant to this position
@@ -49,7 +49,7 @@
     13.2 How
     13.3 Relevant to this position
 ## 14. What’s your most difficult situation and how to overcome it?
-    14.1 What difficult situation  (CI/CD pipeline in AWS Architecture)
+    14.1 What difficult situation  (Push the PMP framework into the real world)
     14.2 How to solve it
 ## 15. How do you respond to the work pressure? (Provide an example of a time when you had to manage a project with a tight deadline. What strategies did you use to stay on track?)
     15.1 What pressure
@@ -57,20 +57,20 @@
 ## 16. What have you done to improve your knowledge in the last 12 months? (What are you reading now) (What do you do to update yourself on the latest software and technology?)
     16.1 List the undertaken activities related to career development (PMP/Writing)
     16.2 What impact to your career path
-## 17. How does the DevOps team cooperate with the development team or other teams?
+## 17. How does your project team cooperate with the development team or other teams?
     17.1 Communicating effectively
     17.2 Delegating tasks related
     17.3 Motivating developers
     17.4 Setting Clear expectation and Deadline
     17.5 Regular check-in
-## 18. What are the differences between Release Manager and DevOps Manager?
+## 18. What are the differences between Project Manager and Product Manager?
 ## 19. What are the release and change management processes? (Release Management in PMI)
 ## 20. How to make sure the CI/CD is supportive? 
     20.1 What’s my CI/CD pipeline framework
     20.2 Tailer it to suit the specific situation
-## 21. As a Release Lead, what motivates you every day? (What keep you going every day)
+## 21. As a Project Manager, what motivates you every day? (What keep you going every day)
     21.1 This company’s mission
-    21.2 Specific story (People can afford the home and business in the inflation)
+    21.2 Personal Mission(leave somthing valuable to the world)
 ## 22. What will you do in the first month once you were a release lead?
 ## 23. What kind of necessary skills should a release lead have? (What qualities might a release manager possess to do their job well?)
     23.1 For Standard Release Manager

@@ -49,7 +49,7 @@
     13.2 How
     13.3 Relevant to this position
 ## 14. What’s your most difficult situation and how to overcome it?
-    14.1 What difficult situation  (Push the PMP framework into the real world)
+    14.1 What difficult situation  (Advocate the PMP framework into the real world)
     14.2 How to solve it
 ## 15. How do you respond to the work pressure? (Provide an example of a time when you had to manage a project with a tight deadline. What strategies did you use to stay on track?)
     15.1 What pressure

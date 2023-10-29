@@ -122,9 +122,19 @@
 ## 6. Tell me about a released product you are most proud to have worked on.
 ## 7. What was your experience with automating release procedures?
 ## 8. Tell me more about your professional development in the last few years and the skills you might bring to the company because of it.
-## 9. Was there a time when you effectively managed conflict between employees in your team?
-    9.1 Identify the conflict (from different perspectives)
-    9.2 Problem-Solving Skills
+## 9. What is your experience with conflic resolution?
+### 9.1 Was there a time when you effectively managed conflict between employees in your team?
+    9.1.1 Identify the conflict (from different perspectives)
+    9.1.2 Problem-Solving Skills
+### 9.2 Was there a time when you effectively managed conflict between your team and another team?
+    9.2.1 Identify the conflict (from different perspectives)
+    9.2.2 Problem-Solving Skills
+### 9.3 Was there a time when you effectively managed conflict between your team and a stakeholder?(or you boss)
+    9.3.1 Identify the conflict (from different perspectives)
+    9.3.2 Problem-Solving Skills
+### 9.4 Was there a time when you effectively managed conflict between your team and a customer?
+    9.4.1 Identify the conflict (to be a good listener and understand the customer’s perspective)
+    9.4.2 Problem-Solving Skills
 ## 10. What project-tracking software have you used in the past?
     10.1 Excel + Outlook + Powerpoint
     10.2 MS Project

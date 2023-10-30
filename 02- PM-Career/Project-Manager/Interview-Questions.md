@@ -179,6 +179,10 @@
         Backup
         Providing support for customers
     22.3 Make sure the release is smoothly and successfully
+## 23. How do you use AI to improve the project management?
+    23.1 AI is a tool to improve the efficiency of project management
+    23.2 AI is a tool to improve the accuracy of project management
+    23.3 AI is a tool to improve the quality of project management
 <br>
 <br>
 <br>

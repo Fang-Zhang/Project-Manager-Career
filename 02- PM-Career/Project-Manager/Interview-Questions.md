@@ -88,6 +88,14 @@
 ## 24. How do you drive your project through data? (HR/Cost/Progress/)
 ## 25. What makes you stand out from the other candidates applying for this role?
 ## 26. What is your process for making decisions related to your work?
+## 27. How will prioritize tasks in your project?
+1. List the tasks and responsibilities
+2. Distinguish between urgent and important
+3. Assess the value of each task
+4. Order the tasks by estimated efforts
+5. Stay flexible and ready to adapt
+6. Know when to say NO
+
 <br>
 <br>
 <br>

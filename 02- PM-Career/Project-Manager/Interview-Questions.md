@@ -48,6 +48,7 @@
     13.1 Where and Why
     13.2 How
     13.3 Relevant to this position
+    13.4 I guess the point is to see if you are a self-improvement for this position and if you are going to stay for a long-term with this company.
 ## 14. What’s your most difficult situation and how to overcome it?
     14.1 What difficult situation  (Advocate the PMP framework into the real world)
     14.2 How to solve it
@@ -71,35 +72,22 @@
 ## 21. As a Project Manager, what motivates you every day? (What keep you going every day)
     21.1 This company’s mission
     21.2 Personal Mission(leave somthing valuable to the world)
-## 22. What will you do in the first month once you were a release lead?
-## 23. What kind of necessary skills should a release lead have? (What qualities might a release manager possess to do their job well?)
-    23.1 For Standard Release Manager
-        Technical Knowledge
-        Risk Management
-        Stakeholder Management
-    23.2 For Enterprise Release Manager
+## 22. What will you do in the first month once you were a project manager?
+- Listen, observe and learn
+- Understand your client’s needs and wants
+- Know your team and their personalities
+- Take the opportunity to learn some new skills
+- Help out around the workplace
+- Try to master the tools your company possesses
+## 23. What kind of necessary skills should a project manager have? (What qualities might a project manager possess to do their job well?)
+    23.1 For Standard Project Manager
+        Industry Context Technical Knowledge
+        Project Management Skills
+    23.2 For Enterprise Project Manager (Program/Portfolio Manager)
         Business Awareness
-        Contingency Planning, Roll-Back, Recovery
-## 24. What are the differences in dependencies between releases and software?
-## 25. How do you drive your project through data? (HR/Cost/Progress/)
-## 26. Is automation equal to DevOps? (CI/CT/CD)
-    26.1 Automation is one of the approaches/tools to DevOps.
-    26.2 DevOps’s main idea is to deliver value efficiency.
-## 27. Tell me what technology interests you currently?
-    27.1 Relevant to this position
-## 28. During the process of product development, why is continuous integration important?
-## 29. What makes you stand out from the other candidates applying for this role?
-## 30. What is your process for making decisions related to your work?
-## 31. What is the skill set of DevOps?
-    31.1 Programming Languages
-    31.2 CI/CD Pipeline
-    31.3 Pipeline as Code
-    31.4 Infrastructure as Code
-    31.5 Configuration as Code
-    31.6 Logging and Monitoring
-    31.7 Docker and Kubernetes
-    31.8 Cloud
-    31.9 Self-Service Development (Backend and Frontend)
+## 24. How do you drive your project through data? (HR/Cost/Progress/)
+## 25. What makes you stand out from the other candidates applying for this role?
+## 26. What is your process for making decisions related to your work?
 <br>
 <br>
 <br>
@@ -120,8 +108,8 @@
     4.3 Not just stick with only one style, but be flexible accordingly
 ## 5. What was your average day like at your previous company?
 ## 6. Tell me about a released product you are most proud to have worked on.
-## 7. What was your experience with automating release procedures?
-## 8. Tell me more about your professional development in the last few years and the skills you might bring to the company because of it.
+## 7. Tell me about your relationship with your previous manager?
+## 8. Have you ever worked in an Agile environment?
 ## 9. What is your experience with conflic resolution?
 ### 9.1 Was there a time when you effectively managed conflict between employees in your team?
     9.1.1 Identify the conflict (from different perspectives)
@@ -141,21 +129,18 @@
     10.3 Trello (Monday.com)
     10.4 Jira Software
     10.5 GitHub Project
-## 11. Can you describe your understanding of the CI/CD?
-## 12. How would you ensure the reliability of your application while the software is growing?
-## 13. Have you ever worked in an Agile environment?
-## 14. Tell me an instance that you couldn't release a product on time. (If a product or service you released ended up causing problems for customers, how would you handle it?)
-    14.1 Identify the issue
-    14.2 Problem-Solving Skills (step by step)
+## 11. What is the difference between Project, Program, and Portfolio?
+    11.1 Project
+        A project is a temporary endeavor undertaken to create a unique product, service, or result.
+    11.2 Program
+        A program is a group of related projects, subprograms, and program activities managed in a coordinated way to obtain benefits not available from managing them individually.
+    11.3 Portfolio
+        A portfolio refers to a collection of projects, programs, subportfolios, and operations managed as a group to achieve strategic objectives.
+![Project-Program-Portfolio](./../../98-Resources/Project-Program-Portfolio.png)
 ## 15. How would you establish the authority around your team members?
     15.1 One-on-One meetings (lunch together)
     15.2 Join the Stand-Up meeting
     15.3 Review their working and development plans with them together
-## 16. Tell me about your relationship with your previous manager?
-## 17. Are you comfortable with release management tools?
-    17.1 Relevant to the CI/CD pipeline tools
-    17.2 Relevant to the DevOps Tools
-## 18. What was your biggest challenge in the previous release experience?
 ## 19. Describe your process for managing stakeholder expectations
     19.1 Understanding the requirements and goals of stakeholder
     19.2 Making a plan accordingly
@@ -186,19 +171,3 @@
 <br>
 <br>
 <br>
-
-# Detailed Release Manager Interview Questions
-## 1. Why do you want to work for this company?
-## 2. How do you see yourself achieving your goals while working as a release manager?
-## 3. Tell me about how you make your management plans before software releases.
-## 4. What is your process for release management? (How would you handle the change management?)
-## 5. How often do you communicate with the stakeholders of a project?
-## 6. Talk to me about your views on the current direction of this company.
-## 7. Here is a sample product. Do you think it is ready for release?
-## 8. What is your role in the software development life cycle?
-## 9. In case of an issue with the software, how would you communicate with your team, your manager, or any other stakeholders?
-## 10. Talk to me about how you prioritize your workday.
-## 11. How do you optimize the release process through the data?
-## 12. How do you make sure the code changes don't break the production?
-## 13. How do you communicate problems to stakeholders, your team, and your manager?
-## 14. What're the quality gates for CI/CD pipelines?

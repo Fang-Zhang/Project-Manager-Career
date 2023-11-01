@@ -2,6 +2,31 @@
 ## 1. Tell me about yourself.
     1.1 Current project and contributions.
     1.2 Previous Projects and Contributions.
+
+It is a common question that the interview usually starts with. The interviewer aims to summarize your journey and your primary skills to determine the follow-up questions and establish how well you might fit into the role. 
+
+An excellent answer to this question would be to mention your present status, then go into the past with the companies you have worked for, at what positions, your strengths and the number of successful projects you have worked on. Do mention your years of experience; if you are a fresher, elaborate on your education. Finish the answer by mentioning your professional goals or what you hope to achieve at this job.
+
+## 2. Can you briefly tell us about the last project you worked on?
+The interviewer is looking for some aspects in your answer to place your seniority, determine the type of projects you have experience working on, your working style, the size of the team you handled and so on.
+
+Start by mentioning the crucial points of the project. Ensure to include the team size, goal, deliverables and the approach used to complete it. Elaborate on the result by using some key statistics and metrics attained by the end of it. It is good to answer honestly and mention things that went well and anything you learned.
+
+## 3. Tell us about an incident where something went wrong in your project while you were managing it.
+Challenges often arise in projects. The interviewer's main aim here is to know the nature of the problem and how you dealt with it. They want to understand if you can work under pressure and your strategy to deal with unforeseen setbacks.
+
+Describe the project, the problem, and why it went wrong. Follow this up with the solution that you were expected to execute. This is where you will elaborate on how you tackled the problem and mention how it solved it, the project's outcomes, and what you learned from it. 
+
+## 4. Tell us about your most successful project.
+The recruiter wants to understand your definition of success through this question. While meeting the budget, deadlines, goals and deliverables are essential elements of success, it could also be incorporating change, tackling problems, adapting to change, and so on.
+
+You can use this chance to elaborate on your strengths. While telling your success story, elaborate on your role and contributions, and acknowledge your team's efforts. Mention any critical factors that led to the success of the project.
+
+## 5. Do you have any experience with budget management?
+A specific question like this is aimed at understanding your skills. If you do not have any experience, it is best to be honest about it and share any budgeting experience you have from your personal life. Also, mention how good you are at picking up new skills.
+
+If you do have professional budget management experience, it will be an added advantage to your candidature. Elaborate with specific project examples and outcomes. 
+
 ## 2. Why do you leave your current job?
     2.1 No Negative Answer
     2.2 Honest and Clear
@@ -91,10 +116,6 @@
 ## 27. How will prioritize tasks in your project?
 1. List the tasks and responsibilities
 2. Distinguish between urgent and important
-3. Assess the value of each task
-4. Order the tasks by estimated efforts
-5. Stay flexible and ready to adapt
-6. Know when to say NO
 
 <br>
 <br>
@@ -112,7 +133,9 @@
         Transactional Leadership
         Participative Leadership
         Servant Leadership
-    4.2 Stating my Leadership Style (Inspiration/Nitty-Gritty/Autonomy)
+![Leadership-Styles](./../../98-Resources/Leadership-Styles.png)
+
+    4.2 Stating my Leadership Style
     4.3 Not just stick with only one style, but be flexible accordingly
 ## 5. What was your average day like at your previous company?
 ## 6. Tell me about a released product you are most proud to have worked on.
@@ -176,6 +199,37 @@
     23.1 AI is a tool to improve the efficiency of project management
     23.2 AI is a tool to improve the accuracy of project management
     23.3 AI is a tool to improve the quality of project management
+## 24. How do you handle a difficult stakeholder?
+    24.1 Identify the difficult stakeholder and be a good listener
+    24.2 Understand the difficult stakeholder's issuesP
+    24.3 Communicate with the difficult stakeholder
+    24.4 Make a plan to deal with the difficult stakeholder
+## 25. Being a project manager how will you gain your team agreement for results?
+    25.1 Make sure the team members are aware of the responsibility
+    25.2 Regular check-in
+    25.3 Respect their perspective for long-term cooperation.
+## 26. Explain the entire team forming process you follow for your team.
+    26.1 Forming
+        In this stage, the entire group unites for the first time where the focus is to build relationships within the team and clarify the mission or vision of the project.
+    26.2 Storming
+        In this stage, team members get more comfortable in sharing their opinions with the team and with a possibility of internal conflict within the group.
+    26.3 Norming
+        In this stage, the project team receives clarity and support on the tasks to proceed with the project.
+    26.4 Performing
+        By this stage, the team members learn to trust and accept each other. Each of the team members becomes competent, and autonomous and is able to handle the decision-making process without anyone’s supervision.
+    26.5 Adjourning
+        This is the final stage of the team forming process, which takes place after project completion. In this stage, the team is broken up and resources are released.
+## 27. What will you do if any of the customers are not happy with the quality or results of the product by the end of the project?
+- Show the customers that you value them
+- Understand why they are not happy
+- Figure out what modifications they want
+- Try to incorporate the modifications if possible
+- If not possible try to convince and explain to the customer that the project fits in with the agreed scope
+## 28. Explain the triple constraint triangle in project management.
+    28.1 Scope
+    28.2 Time
+    28.3 Cost
+![Triple-Constraint-Triangle](./../../98-Resources/Triple-Constraint.png)
 <br>
 <br>
 <br>
